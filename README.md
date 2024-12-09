@@ -7,6 +7,8 @@ x) Read and summarize (briefly, e.g. with some bullets)
 
 ![image](https://github.com/user-attachments/assets/4e246756-1a06-4ad1-9b20-3e1cc47ca874)
 
+![image](https://github.com/user-attachments/assets/12a08794-c7a8-460e-898d-746aa5a1433f)
+
 * Companies have the important problem of balancing powerful cybersecurity measures with user-friendly interfaces in order to maximize the customer experience and protect sensitive data.
 * The study investigates the techniques and methodologies on how to establish a balance between cybersecurity and usability.
 * The study starts with basics of evolution of cybersecurity, importance of user-friendly interfaces and requirements for cybes security.
